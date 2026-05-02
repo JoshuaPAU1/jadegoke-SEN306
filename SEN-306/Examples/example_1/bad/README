@@ -1,0 +1,4 @@
+If you want to execute in terminal, please run:
+cd C:\Users\*******\******\SEN-306
+javac -cp exercises exercises\exercise_1\*.java -d exercises
+java -cp exercises Exercises.exercise_1.Main
